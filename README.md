@@ -2,6 +2,8 @@
 
 ⚠️ **Intentionally Vulnerable Application – For Educational Use Only**
 
+<img width="420" height="308" alt="image" src="https://github.com/user-attachments/assets/dfca3dcf-3187-4097-8825-0abd59ab641d" />
+
 CSRFWeakWeb is a deliberately insecure web application designed to help beginners and security enthusiasts understand **Cross-Site Request Forgery (CSRF)** vulnerabilities through hands-on practice.
 
 This project is built purely for **learning, demonstration, and lab purposes**.
